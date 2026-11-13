@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/benchmarks/">
+    <Project Path="benchmarks/GradientDescent.Benchmarks/GradientDescent.Benchmarks.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/GradientDescent/GradientDescent.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GradientDescent.Tests/GradientDescent.Tests.csproj" />
+  </Folder>
+</Solution>
